@@ -1,0 +1,44 @@
+-- tableの出力
+-- select * from aliens_abduction;
+
+-- tableに追加
+-- insert into aliens_abduction(
+--     last_name,
+--     first_name,
+--     when_it_happened,
+--     how_long,
+--     how_many,
+--     alien_description,
+--     what_they_did,
+--     fang_spotted,
+--     other,
+--     email
+-- ) values (
+--     '小島',
+--     'よしお',
+--     '四日前',
+--     '1日',
+--     '1人',
+--     'グレーで触覚が二つ',
+--     '犬と遊ぶ',
+--     'はい',
+--     'その犬を見たと思います。連絡をください。',
+--     'takeshi.ijima.www@gmail.com'
+-- );
+
+-- tableの作成
+-- create table aliens_abduction(
+--     last_name varchar(30),
+--     first_name varchar(30),
+--     when_it_happened varchar(30),
+--     how_long varchar(30),
+--     how_many varchar(30),
+--     alien_description varchar(100),
+--     what_they_did varchar(100),
+--     fang_spotted varchar(10),
+--     other varchar(100),
+--     email varchar(50)
+-- );
+
+-- databaseの作成
+-- create database aliendatabase;
