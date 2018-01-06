@@ -31,5 +31,6 @@
         <?php
             echo '顧客のメールを追加しました';
          ?>
+         <a href="index.php">戻る</a>
     </body>
 </html>
