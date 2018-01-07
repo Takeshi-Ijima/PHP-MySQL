@@ -1,0 +1,11 @@
+-- create database board;
+
+-- use board;
+--
+-- create table post(
+--     id integer not null auto_increment,
+--     name varchar(40),
+--     comment varchar(200),
+--     created_time datetime,
+--     primary key(id)
+-- );
